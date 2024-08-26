@@ -14,6 +14,7 @@ platformdirs
 fastapi
 uvicorn
 flask
+Gunicorn
 brotli
 beautifulsoup4
 aiohttp_socks
