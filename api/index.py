@@ -31,7 +31,8 @@ def fix_script():
                 "1. Do not rename any variables.\n"
                 "2. Make the code as short as possible it doesnt mean 1 liner code.\n"
                 "3. Fix any errors in the code.\n"
-                "4. Do not say anything, just return the fixed script without adding any comments or extra text."
+                "4. Do not say anything, just return the fixed script without adding any comments or extra text.\n"
+                "5. Do not make the code 1 liner."
             )}
         ]
     )
